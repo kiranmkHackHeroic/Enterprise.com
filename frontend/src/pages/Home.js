@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 import { 
   FaRocket, 
-  FaUsers, 
-  FaAward, 
   FaCode,
   FaCloud,
   FaShieldAlt,
